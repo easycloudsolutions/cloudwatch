@@ -8,7 +8,7 @@ TESTING
 
 1. Write in access key and secret key from Security Credentials in AWS under providers.
 2. Create test ec2 instance to see data on CloudWatch Dashboard.
-3. In console where the code is type:
+3. In console where the code is type:  
   terraform init
   terraform apply --auto-approve
 4. When finished:
